@@ -1,5 +1,5 @@
 import download from './download.png';
-import logo from './stablediffusion.svg';
+import logo from './mesa_logo.png';
 import preview from './preview.png';
 
 export {
